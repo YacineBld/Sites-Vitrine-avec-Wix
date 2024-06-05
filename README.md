@@ -1,8 +1,11 @@
-# Sites-Vitrine-avec-Wix
-Veuillez trouvez ici des sites vitrine réalisés (test) : 
+Sites Vitrine avec Wix ✨
 
-https://yacinebelabedsio.wixsite.com/my-site-1
+Bienvenue ! Voici une sélection de sites vitrine réalisés pour des tests :
 
-https://sinthujanananthaku.wixsite.com/my-site-2
+https://yacinebelabedsio.wixsite.com/my-site-1 🚗
+
+https://sinthujanananthaku.wixsite.com/my-site-2 🍕
+
+Explorez-les et profitez de leur simplicité et de leur élégance.
 
 
